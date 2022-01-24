@@ -10,12 +10,12 @@ According to the analysis perform this are the main conclusions:
 
 - June average temperature is 74.94F which is a good average temperature the icecream industry. it is also pretty stable and the key statistics metrics are the following:
 
-![Original Results](/Resources/june_Sumary_Chart.png)
+![Original Results](/Resources/June_Sumary_Chart.png)
 
 
 - In the case of December, resutls are pretty similar to June, but little colder, with an average of 71F, it is also a bit more volaltile specialy for the lower temperatures:
 
-![Original Results](/Resources/december_Sumary_Chart.png)
+![Original Results](/Resources/December_Sumary_Chart.png)
 
 - We could expect that the average for other months not analized are going to fall in similar values than what we observed in Dec and june
 
